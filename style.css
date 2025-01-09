@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 30%;
+    border: 10px solid #000;
+    margin: 1rem;
+
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+    /* align-items: center;
+    height: 100vh; */
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.aqua{
+    background-color: aqua;
+}
